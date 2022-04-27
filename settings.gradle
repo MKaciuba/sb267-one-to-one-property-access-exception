@@ -1,0 +1,5 @@
+rootProject.name = 'sb267-one-to-one-property-access-exception'
+
+include "common"
+include "sb267"
+include "sb2513"
